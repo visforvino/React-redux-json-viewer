@@ -1,0 +1,71 @@
+	
+providerName	"V is for Vino"
+lastUpdated	"2020-09-11T14:42:42-04:00"
+language	"en"
+movies	
+0	
+id	"456374140"
+title	"Napa"
+shortDescription	"Competition, controversy, and land that sell for 1M an acre! Napa Valley is the quintessential American wine region. (2017 I 30 min)"
+thumbnail	"https://i.vimeocdn.com/video/956016716_800x450.png"
+releaseDate	"2020-09-09T19:42:18-04:00"
+genres	
+0	"educational"
+1	"food"
+tags	
+0	"educational"
+1	"food"
+2	"wine"
+content	
+dateAdded	"2020-09-11T14:33:33-04:00"
+duration	1787
+videos	
+0	
+url	"https://player.vimeo.com/external/456374140.hd.mp4?s=44d665355e3dfd32d8d472a6bd35a2efa711b5a2&profile_id=175"
+quality	"FHD"
+videoType	"MP4"
+bitrate	5439349
+1	
+id	"456398162"
+title	"Santa Barbara"
+shortDescription	"Santa Barbara is a favorite California wine region for the money. Dollar for dollar, nothing competes! (2017 I 27 min)"
+thumbnail	"https://i.vimeocdn.com/video/956017301_800x450.png"
+releaseDate	"2020-09-09T21:47:14-04:00"
+genres	
+0	"educational"
+1	"food"
+tags	
+0	"educational"
+1	"food"
+2	"wine"
+content	
+dateAdded	"2020-09-11T14:33:33-04:00"
+duration	1597
+videos	
+0	
+url	"https://player.vimeo.com/external/456398162.hd.mp4?s=4a13442d743f4788c86e12b98793766612f0b035&profile_id=175"
+quality	"FHD"
+videoType	"MP4"
+bitrate	5267494
+2	
+id	"456386515"
+title	"Paso Robles"
+shortDescription	"Paso Robles feels like a farm community at heart. All the locals are proud of the region even if it doesn't get the recognition it should. (2017 I 27 min)"
+thumbnail	"https://i.vimeocdn.com/video/956017120_800x450.png"
+releaseDate	"2020-09-09T20:46:05-04:00"
+genres	
+0	"educational"
+1	"food"
+tags	
+0	"educational"
+1	"food"
+2	"wine"
+content	
+dateAdded	"2020-09-11T14:33:33-04:00"
+duration	1718
+videos	
+0	
+url	"https://player.vimeo.com/external/456386515.hd.mp4?s=1630109c4f39e4be31cf8e9ba6532da70a3f99ab&profile_id=175"
+quality	"FHD"
+videoType	"MP4"
+bitrate	5342301
